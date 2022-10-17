@@ -1,0 +1,2 @@
+SELECT SUM(park_visitors) FROM park
+WHERE city = "San Francisco"

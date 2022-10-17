@@ -1,0 +1,2 @@
+SELECT name FROM park
+WHERE park_visitors < 1000000
